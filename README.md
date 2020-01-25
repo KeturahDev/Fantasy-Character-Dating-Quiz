@@ -1,4 +1,4 @@
-# Beep Boop
+# Fantasy Dating Quiz
 By Keturah Howard and Todd Walraven, January 16th 2020
 
 ## Description
