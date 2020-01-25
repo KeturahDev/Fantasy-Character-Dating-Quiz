@@ -1,3 +1,7 @@
+body{
+  background-image: radial-gradient(circle, #c596a2, #957369, #5f5341, #2f3426, #07150f);: 
+}
+
 .king-hotwheels {
   display: none;
 }
