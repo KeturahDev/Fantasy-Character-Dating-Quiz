@@ -1,7 +1,20 @@
 body{
-  background-image: radial-gradient(circle, #c596a2, #957369, #5f5341, #2f3426, #07150f);: 
+  background-image: radial-gradient(circle, #c596a2, #957369, #5f5341, #2f3426, #07150f);
+  color: white;
 }
 
+.jumbotron {
+  text-align: center;
+  background:transparent !important;
+  font-weight: 900;
+}
+#quiz{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.form-group{
+  
+}
 .king-hotwheels {
   display: none;
 }
